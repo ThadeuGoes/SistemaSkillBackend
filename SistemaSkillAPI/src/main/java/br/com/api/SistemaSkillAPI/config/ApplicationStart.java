@@ -28,7 +28,7 @@ public class ApplicationStart {
 			SkillRequisicaoDTO novoSkill = new SkillRequisicaoDTO();
 			
 			novoSkill.setNome("Java");
-			novoSkill.setImagem("https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png");
+			novoSkill.setImagem("https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png");
 			novoSkill.setDescricao("Reconhecida por versatilidade em backend ");
 			skillService.salvar(novoSkill);
 			
