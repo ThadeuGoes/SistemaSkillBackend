@@ -13,3 +13,7 @@ Certifique-se de ter o seguinte software instalado em sua máquina antes de come
 A documentação da API está disponível no seguinte endereço:
 
 http://localhost:8080/swagger-ui.html
+
+## Frontend do projeto
+
+https://github.com/ThadeuGoes/SistemaSkillFrontend.git
