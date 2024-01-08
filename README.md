@@ -1,4 +1,4 @@
-# UserSkills API
+# SistemaSkill Backend
 
 Esta API é responsável por guardar e associar usuários com suas skills em programação. Ela é construída em Java e usa o Swagger para documentar sua interface.
 
